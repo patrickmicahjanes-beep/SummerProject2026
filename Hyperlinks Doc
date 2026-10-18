@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{hyperref}
+
+\title{Hyperlinks Doc}
+\author{Patrick Janes}
+
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This doc contains all of the links necessary to view current edits to other overleaf or resources used in the project docs.
+
+Please see the below hyperlink for the most recent form of this document.
+\href{https://www.overleaf.com/project/6ac5a51f5d51ac4bb4af78a5/share#922e910cde1f20bcd2cf48339438cb6af82fd9f3662b8a66}{Hyperlink}
+
+\section{Primary Author: Patrick Janes}
+
+\subsection{}
+\begin{itemize}
+    \item \href{https://www.overleaf.com/project/69c191c81ee51e72ad1c7f45}{Tools Overview}
+    \item \href{https://www.overleaf.com/project/6a52a54d083968255117b49f}{Short doc brain dump}
+    \item 
+    \href{}{}
+\end{itemize}
+
+\section{Gemini AI Assisted Document Creations}
+\subsection{Informal Papers/Research}
+\begin{itemize}
+    \item \href{https://www.overleaf.com/project/6a5d43d9d90af92dd9712985}{Most recent attempt at cohesive paper}
+    - near beginning of August
+    \item \href{https://www.overleaf.com/project/6a592e59bd1abd63d051fd3c}{Mitigation of Field Distortion from Stepper Motors}
+    \item
+        \href{https://www.overleaf.com/project/69f9f0173fffd2986c73ef19}{Journal (\& Informal Paper Pt 1) - Summer 2026}
+\end{itemize}
+\end{document}
+
